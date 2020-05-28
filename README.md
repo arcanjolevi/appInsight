@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/logoPrincipal.png" width="200px" />
+    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/logoPrincipal.png" width="400px" />
 </h1>
 
 <h4 align="center">
@@ -9,9 +9,9 @@
 <p align="center">
  
 <p align="center">
-  <a href="#Insight-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Insight-tecnologias">Tecnologias</a>
+  <a href="#-projeto">Projeto</a>
+  
 </p>
 
 <br>

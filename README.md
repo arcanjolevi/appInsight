@@ -32,3 +32,4 @@ O app Insight é um app para gerenciamento e organização das equipes do Insigh
 ## Código
 
 - [Backend](https://github.com/arcanjolevi/backend_app_insight)
+- [Mobile](https://github.com/arcanjolevi/mobile_app_insight)

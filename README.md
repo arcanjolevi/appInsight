@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/logoPrincipal.png" width="300px" />
+    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/logoPrincipal.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -7,6 +7,10 @@
 </h4>
 
 <p align="center">
+<a href="https://github.com/arcanjolevi/backend_app_insight">Backend</a> |
+<a href="https://github.com/arcanjolevi/mobile_app_insight">Mobile</a>
+</p>
+
  
 <br>
 
@@ -31,5 +35,4 @@ O app Insight é um app para gerenciamento e organização das equipes do Insigh
 
 ## Código
 
-- [Backend](https://github.com/arcanjolevi/backend_app_insight)
-- [Mobile](https://github.com/arcanjolevi/mobile_app_insight)
+

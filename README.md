@@ -7,11 +7,7 @@
 </h4>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
-
+ 
 <p align="center">
   <a href="#Insight-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +20,7 @@
   <img alt="Insight" src="" width="100%">
 </p>
 
-## :Insight: Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -33,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## Projeto
 
 O app Insight é um app para gerenciamento e organização das equipes do Insight. Além de proporcionar informações e funcionalidades úteis acerca do movimento Insight para pessoas com pouco conhecimento e acesso.

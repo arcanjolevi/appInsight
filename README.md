@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/splash.png" width="200px" />
+    <img alt="Insight" title="logo" src="https://github.com/arcanjolevi/mobile_app_insight/blob/master/assets/logoPrincipal.png" width="200px" />
 </h1>
 
 <h4 align="center">

@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Insight" src="https://github.com/arcanjolevi/appInsight/blob/master/screenshots/WhatsApp%20Image%202020-05-28%20at%2014.47.37(1).jpeg" width="20%">
+  <img alt="Insight" src="https://github.com/arcanjolevi/appInsight/blob/master/screenshots/WhatsApp%20Image%202020-05-28%20at%2014.47.37(5).jpeg" width="20%">
   <img alt="Insight" src="https://github.com/arcanjolevi/appInsight/blob/master/screenshots/WhatsApp%20Image%202020-05-28%20at%2014.47.37(2).jpeg" width="20%">
   <img alt="Insight" src="https://github.com/arcanjolevi/appInsight/blob/master/screenshots/WhatsApp%20Image%202020-05-28%20at%2014.47.37(3).jpeg" width="20%">
   <img alt="Insight" src="https://github.com/arcanjolevi/appInsight/blob/master/screenshots/WhatsApp%20Image%202020-05-28%20at%2014.47.37(4).jpeg" width="20%">

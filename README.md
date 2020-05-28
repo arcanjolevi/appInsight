@@ -9,7 +9,7 @@
 <p align="center">
  
 <p align="center">
-  <a href="#Insight-tecnologias">Tecnologias</a>
+  <a href="#Insight-tecnologias">Tecnologias</a> | 
   <a href="#-projeto">Projeto</a>
   
 </p>

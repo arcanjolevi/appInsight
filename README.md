@@ -32,7 +32,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 
 O app Insight é um app para gerenciamento e organização das equipes do Insight. Além de proporcionar informações e funcionalidades úteis acerca do movimento Insight para pessoas com pouco conhecimento e acesso.
-
-## Código
-
-
